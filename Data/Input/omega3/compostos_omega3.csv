@@ -1,0 +1,58 @@
+﻿id_produto;composto;porcao;valorDiario
+1;Valor Energético;18 kcal=76 kJ;
+1;Gorduras Saturadas;2g;4
+1;Gorduras trans;2g;4
+1;Gorduras Monoinsaturadas;0,2g;4
+1;Gorduras Polinsaturadas;1,7g;**
+1;EPA;400mg;**
+1;DHA;1000mg;**
+1;Colesterol;0mg;0
+2;Valor energético;27kcal=113kJ;1
+2;Gorduras totais;3g;6
+2;Gorduras saturadas;0g;0
+2;Gorduras trans;0g;**
+2;Gorduras monoinsaturadas;0,3g;**
+2;Gorduras poli-insaturadas;1,8g;**
+2;Ácido Eicosapentanoico (EPA);0,3g;**
+2;Ácido Docosahexanoico (DHA);1,5g;**
+2;Colesterol;0g;**
+2;Vitamina E;9,0mg;90
+3;Valor energético;18kcal=76kJ;1
+3;Gorduras Totais;2,0g;4
+3;Gorduras Saturadas;0,3g;1
+3;Gorduras Trans;0g;**
+3;Gorduras Monoinsaturadas;0,4g;**
+3;Gorduras Poli-insaturadas;1,2g;**
+3;Ácido Eicosapentanoico (EPA);0,72g;**
+3;Ácido Docosahexanoico (DHA);0,48g;**
+3;Vitamina E;3,2mg;32
+4;Valor Energético;18 kcal;1
+4;Gorduras totais;2,0 g;4
+4;Gorduras saturadas;0 g;0
+4;Gorduras trans;0 g;0
+4;Gorduras monoinsaturadas;0 g;**
+4;Gorduras polinsaturadas;1,8 g;**
+4;EPA;849 mg;**
+4;DHA;559 mg;**
+4;Colesterol;0 mg;0
+4;Vitamina E;10 mg;100
+5;Valor Energético;16 kcal = 66 k;1
+5;Proteínas;0,7g;1
+5;Gorduras totais, das quais;1,4g;3
+5;Gorduras saturadas;0,5g;2
+5;Gorduras trans;0,0g;**
+5;Gorduras monoinsaturadas;0,3g;**
+5;Gorduras poli-insaturadas, das quais;0,6g;**
+5;Ácido eicosapentanóico (EPA);180mg;**
+5;Ácido docosahexaenóico (DHA);120mg;**
+5;Colesterol;7mg;**
+6;Valor energético;21 kcal = 88 kJ;1
+6;Gorduras totais;2 g, das quais:;4
+6;gorduras saturadas;0,5 g;2
+6;gorduras trans;0 g;-
+6;gorduras monoinsaturadas;0,4 g;-
+6;gorduras poli-insaturadas;0,79 g, das quais:;-
+6;ácido eicosapentaenoico (EPA);360 mg;-
+6;ácido docosahexaenoico (DHA);240 mg;-
+6;Colesterol;10 mg;-
+6;Vitamina E;6,7 mg;67

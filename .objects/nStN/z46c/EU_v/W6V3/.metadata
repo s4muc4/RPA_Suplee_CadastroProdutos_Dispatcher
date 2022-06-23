@@ -1,0 +1,13 @@
+﻿{
+  "Id": "W6V3rulEeUyT0poEvvjMUQ",
+  "Reference": "ZP3KN3wgLUe4q5FphCmWWw/W6V3rulEeUyT0poEvvjMUQ",
+  "ParentRef": "ZP3KN3wgLUe4q5FphCmWWw/EU_vcix7-UOmdE095-vBog",
+  "Name": "Composto",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-06-05T01:24:13.4146906Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-05T01:24:13.4146906Z"
+}

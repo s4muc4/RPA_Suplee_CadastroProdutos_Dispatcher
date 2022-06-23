@@ -1,0 +1,13 @@
+﻿{
+  "Id": "9b_JuO9akUixY3iNFHD6sA",
+  "Reference": "ZP3KN3wgLUe4q5FphCmWWw/9b_JuO9akUixY3iNFHD6sA",
+  "ParentRef": "ZP3KN3wgLUe4q5FphCmWWw/EU_vcix7-UOmdE095-vBog",
+  "Name": "Efeito: Relaxante",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-05-30T02:35:47.6759875Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T02:35:47.6759875Z"
+}

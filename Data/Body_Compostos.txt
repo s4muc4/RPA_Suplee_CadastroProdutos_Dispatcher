@@ -1,0 +1,5 @@
+{
+	"composto": "<composto>",
+	"porcao": "<porcao>",
+	"valorDiario": "<valorDiario>"
+}

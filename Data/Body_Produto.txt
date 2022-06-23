@@ -1,0 +1,20 @@
+{
+  "nome": "<nome>",
+  "descricao": "<descricao>",
+  "composicao": "<composicao>",
+  "quantidadeDisponivel": <quantidadeDisponivel>,
+  "preco": <preco>,
+  "profundidade": <profundidade>,
+  "altura": <altura>,
+  "largura": <largura>,
+  "categoriaId": "<categoriaId>",
+  "imagens": [<imagens>],
+  "efeitos": [<efeitos>],
+  "informacaoNutricional": {
+    "cabecalho": "<cabecalho>",
+    "legenda": "<legenda>",
+    "compostosNutricionais": [
+        <compostos>
+    ]
+  }
+}

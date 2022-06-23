@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0-P8MSp9c0uhrQQz-uonXQ" Reference="ZP3KN3wgLUe4q5FphCmWWw/ZXv_pFxBv0mYachoabHy2g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://suplee.vercel.app/register-admins/123" ContentHash="jx4xlee87UCQScRX-LDBzg" DesignTimeRectangle="1283, 886, 121, 53" ElementType="DropDown" FriendlyName="'MineraisProteinasVitami…'" FullSelectorArgument="&lt;webctrl tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SELECT' type='' class='py-2 px-3 rounded-md border appearance-none' aaname='' /&gt;" Guid="af79fb6b-da6e-47ed-93d4-ea92d25c9c67" Reference="ZP3KN3wgLUe4q5FphCmWWw/ZXv_pFxBv0mYachoabHy2g" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Cadastro de Produto' /&gt;" SearchSteps="FuzzySelector" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b0fa2046efea5469ca304960661a688e.png" xmlns="">0CP3jdEP1rU6nRl4FwIvKWg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

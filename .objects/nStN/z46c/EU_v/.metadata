@@ -1,0 +1,15 @@
+﻿{
+  "Id": "EU_vcix7-UOmdE095-vBog",
+  "Reference": "ZP3KN3wgLUe4q5FphCmWWw/EU_vcix7-UOmdE095-vBog",
+  "ParentRef": "ZP3KN3wgLUe4q5FphCmWWw/z46cJ8bZbkmn4IoPR4Rwyw",
+  "Name": "Suplee - Cadastro dos produtos",
+  "Type": "Screen",
+  "Created": "2022-05-30T02:35:46.7239928Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T03:01:18.3998003Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

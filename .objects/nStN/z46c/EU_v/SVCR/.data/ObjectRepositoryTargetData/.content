@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UD96f186P0ShUjRnMNN25w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="747, 494, 88, 26" ElementType="Button" FriendlyName="'&amp;Abrir'" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Abrir' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Abrir' check:text='&amp;amp;Abrir' /&gt;" Guid="752f748f-14cb-4280-8669-c45ae9858a84" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAFwAAAAeCAYAAAChf3k/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEkSURBVGhD7ZXLDYQwDES3Jy7UkmZSCJe04lLogA68a7xAEmB/WkY5TKQnFAY4PBvn1ve9EhwUDmYVPk0TuZBD4cMwkAt4KbzrOvJHKBwMhYOhcDAUDobCwTQvPIqqSqzuRxUdNYX83gkhPZ788FkAbQs3WaOojLWwL4Q3RtPCQ3r0Zgrrdcso/AKCpqWz505PGtbsKTzauPC1FcQzEUtEY1GcOlu+h6Nd4YXkTP68N3GzZc+LOe1ZXYDjDE+zwusxYvvt8MwlOna4SjzKauHle2gaFe6duF/LGKjF2R9A4b9j7VrMbKOWmo2GeaScFYPC3+K+93N2Gysuzg8/X14Ig8JJBoWDoXAwFA6GwsFQOBgKB/NWOPk/p8LJdeyEEwwUDqXXO4XI79+6xgfcAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Abrir' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a44576fc364617a3dacbb1e8e9bc73c7.png" xmlns="">0mGugy0xnwkCEkRvv_zoT4w</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

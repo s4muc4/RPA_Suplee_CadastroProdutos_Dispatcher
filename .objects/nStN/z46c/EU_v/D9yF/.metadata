@@ -1,0 +1,13 @@
+﻿{
+  "Id": "D9yFocVvRk27nuLSRRW6IQ",
+  "Reference": "ZP3KN3wgLUe4q5FphCmWWw/D9yFocVvRk27nuLSRRW6IQ",
+  "ParentRef": "ZP3KN3wgLUe4q5FphCmWWw/EU_vcix7-UOmdE095-vBog",
+  "Name": "Valor Diário",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-06-05T01:24:13.7357158Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-05T01:24:13.7357158Z"
+}

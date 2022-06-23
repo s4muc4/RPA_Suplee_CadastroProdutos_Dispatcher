@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Pvh5y2B3fEuOijCo8KZiIQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="183, 470, 532, 15" ElementType="InputBox" FriendlyName="'Edit'" FullSelectorArgument="&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' /&gt;&lt;wnd ctrlid='1148' /&gt;" Guid="35f4e20f-2575-4c5b-a1ee-b45ff4171648" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAhgAAAATCAYAAADS3HT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABqSURBVHhe7dYxAQAwDAShynr/xlITNzLggbftAABKggEA5AQDAMgJBgCQEwwAICcYAEBOMACAnGAAADnBAAByggEA5AQDAMgJBgCQEwwAICcYAEBOMACAnGAAADnBAAByggEA5AQDAIjtPtArv0jPTKx1AAAAAElFTkSuQmCC" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Abrir' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="138, 469, 36, 15" ElementType="Text" FriendlyName="'&amp;Nome'" FullSelectorArgument="&lt;wnd ctrlid='1090' title='&amp;amp;Nome:' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1090' title='&amp;amp;Nome:' check:text='&amp;amp;Nome:' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAATCAYAAADiQ08DAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADmSURBVEhL7ZPtDQMhCIY7ltM4i7M4ips4CeVDT/Cquca08Yckb3IgB4+iL+cc7KwDuKoDuCoFGCABWgomQeIZotex/6kDzJAzMeqkzQBjiAgZwffxbQARJOCsc/S3OPseN0BXoVg7bbVBteZjy241+zoJAsWksTqcAeD8W0FxE7t2NaBm7BYo9guIqSlrnPccEEXJ/GBUnIFqE5Gk0Xf3/8zvpsB2e5yiMaDzQNNJ4VeAts5IE0DUtdMap5wKVNcHY5v6UsfcSdJXIy6SS67iZjxPgT74pg4ajXgOuKcO4KoO4JocvAFrBca5WI2kjAAAAABJRU5ErkJggg==" SearchSteps="Selector, FuzzySelector, Image" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ea6b3bfa1416fd77a4b62938fd76333d.png" xmlns="">0mVX6SZlwcU-JHBQiVWeOnA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

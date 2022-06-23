@@ -1,0 +1,13 @@
+﻿{
+  "Id": "ChopnwhZmUWpbn7VfzxF3A",
+  "Reference": "ZP3KN3wgLUe4q5FphCmWWw/ChopnwhZmUWpbn7VfzxF3A",
+  "ParentRef": "ZP3KN3wgLUe4q5FphCmWWw/EU_vcix7-UOmdE095-vBog",
+  "Name": "Nome",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-05-30T03:01:18.5844221Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T03:01:18.5844221Z"
+}

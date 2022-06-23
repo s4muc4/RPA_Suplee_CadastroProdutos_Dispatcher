@@ -1,0 +1,13 @@
+﻿{
+  "Id": "QhFudDW9n0O9F8nN9t6-Iw",
+  "Reference": "ZP3KN3wgLUe4q5FphCmWWw/QhFudDW9n0O9F8nN9t6-Iw",
+  "ParentRef": "ZP3KN3wgLUe4q5FphCmWWw/EU_vcix7-UOmdE095-vBog",
+  "Name": "Porção",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-06-05T01:24:13.6027057Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-06-05T01:24:13.6027057Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "pb35jiV_lkWCOSG2JXt8UA",
+  "Reference": "ZP3KN3wgLUe4q5FphCmWWw/pb35jiV_lkWCOSG2JXt8UA",
+  "ParentRef": "ZP3KN3wgLUe4q5FphCmWWw/EU_vcix7-UOmdE095-vBog",
+  "Name": "Manual",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-05-30T02:44:41.5047094Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T02:44:41.5047094Z"
+}

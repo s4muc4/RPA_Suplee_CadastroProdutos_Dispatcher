@@ -1,0 +1,13 @@
+﻿{
+  "Id": "gif_2IT17km0NzqKQZ_oWA",
+  "Reference": "ZP3KN3wgLUe4q5FphCmWWw/gif_2IT17km0NzqKQZ_oWA",
+  "ParentRef": "ZP3KN3wgLUe4q5FphCmWWw/EU_vcix7-UOmdE095-vBog",
+  "Name": "Cadastrar produto",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-05-30T03:05:45.3989199Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T03:05:45.3989199Z"
+}

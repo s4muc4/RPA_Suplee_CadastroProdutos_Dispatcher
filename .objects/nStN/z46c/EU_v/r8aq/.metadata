@@ -1,0 +1,13 @@
+﻿{
+  "Id": "r8aq6BXDqUag_nW1kZsz5Q",
+  "Reference": "ZP3KN3wgLUe4q5FphCmWWw/r8aq6BXDqUag_nW1kZsz5Q",
+  "ParentRef": "ZP3KN3wgLUe4q5FphCmWWw/EU_vcix7-UOmdE095-vBog",
+  "Name": "Automatica",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-05-30T02:35:46.8604583Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-30T02:35:46.8604583Z"
+}
